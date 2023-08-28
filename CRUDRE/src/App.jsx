@@ -1,5 +1,5 @@
 import "./App.css";
-import BtnPrincipal from "./principal/buttons";
+import BtnPrincipal from "./principal/Buttons";
 import TittleH from "./principal/TittleH";
 import { Link } from "react-router-dom";
 
